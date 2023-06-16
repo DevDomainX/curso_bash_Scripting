@@ -3,7 +3,7 @@ curso de BASH Scripting completo para aprender a usarlo
 
 descargar curso :
 
-$ https://github.com/HansSaldias/curso_bash_Scripting
+$ git clone https://github.com/HansSaldias/curso_bash_Scripting
 
 $ cd curso_bash_Scripting
 
