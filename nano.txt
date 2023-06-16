@@ -1,0 +1,16 @@
+author Hans saldias
+uso de nano en mi pareser se me facilita ocupar este editor de texto para los script
+
+buscar  texto en particular ctrl + w
+guardar informacion creada o escrita ctrl + s
+guardar como para cambiar nombre ctrl + o 
+copiar texto es alt + a y usamos las flechas del teclado
+desmarcamos con alt + a 
+copiar con ctrl + shift + c 
+pegra con ctrl + shift + v
+
+
+nano tambien muestra las ayudas debajo y para intalar en linux solo 
+
+TERMUX: apk install nano o actualizar apt install nano
+UBUNTU Y DISTROS LINUX PC: sudo apt-get install nano 
